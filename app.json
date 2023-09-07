@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f9c54231-5da6-4c72-8ec1-fae0a26a0e04"
+      }
+    },
+    "owner": "ethandellaposta1"
   }
 }
